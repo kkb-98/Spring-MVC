@@ -1,0 +1,2 @@
+포스트맨 다운로드 - api 테스트시 유용함
+https://www.postman.com/downloads
